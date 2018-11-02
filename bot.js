@@ -5,6 +5,7 @@ console.log("BOT ONLINE");
 
 
 
+bot.user.setActivity("skillz 5ra");
 
 
 client.on('message', message => {
